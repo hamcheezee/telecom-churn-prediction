@@ -1,4 +1,4 @@
-# TelecomChurnPrediction <a href="https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/data"><img src="https://img.shields.io/badge/click-for%20dataset-blue" alt="Dataset Badge"></a>
+# Telecom Churn Prediction <a href="https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/data"><img src="https://img.shields.io/badge/click-for%20dataset-blue" alt="Dataset Badge"></a>
 
 Churn in the telecom industry Prediction can be used to predict whether or not a customer will continue to use a service, as well as to identify factors that influence customer churn and classify customers.
 
