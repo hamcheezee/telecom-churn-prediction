@@ -12,4 +12,4 @@ Churn in the telecom industry Prediction can be used to predict whether or not a
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
   
 ## 🔗 Google Colab URL: 
-<a href = "https://colab.research.google.com/drive/1ovewhaby4qperpx1pfg_jnbp8ldedwe6?usp=sharing">https://colab.research.google.com/drive/1ovewhaby4qperpx1pfg_jnbp8ldedwe6?usp=sharing</a>
+<a href = "https://colab.research.google.com/drive/1ovewHAby4qPeRpX1PFg_JnbP8ldeDWe6?usp=sharing">https://colab.research.google.com/drive/1ovewHAby4qPeRpX1PFg_JnbP8ldeDWe6?usp=sharing</a>
