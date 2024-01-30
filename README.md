@@ -1,6 +1,6 @@
 # Telecom Churn Prediction <a href="https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/data"><img src="https://img.shields.io/badge/click-for%20dataset-blue" alt="Dataset Badge"></a>
 
-Churn in the telecom industry Prediction can be used to predict whether or not a customer will continue to use a service, as well as to identify factors that influence customer churn and classify customers
+Built models to predict whether a customer is likely to switch to another telecom service provider (churn) based on historical data and various features associated with the customer.
 
 ### Customer churn influencing factors
 
@@ -13,17 +13,17 @@ It's interesting to note that churn appears to be adversely correlated with serv
 
 <img width="676" alt="Screenshot 2566-01-14 at 17 50 47" src="https://user-images.githubusercontent.com/99606444/212468410-6df8f794-5ed0-40ed-8eec-b3e2dc989237.png">
 
-From the picture, it can be seen that there are 5 groups of customers who have already stopped using the service:
+From the picture, it can be observed that there are five groups of customers who have already discontinued using the service:
 
-• Group 1 (Blue): This is a group of customers with low service life and low monthly expenses. making it possible to see that These customers are the kind who just come in and go out. not attached to the use of any camp service
+• Group 1 (Blue): This comprises customers with a low service life and low monthly expenses. It is evident that these customers tend to come and go without forming a lasting attachment to any camp service.
 
-• Group 2 (Green): This is a group of customers whose service life is in the middle to very long. and has a low monthly cost which these customers It's a small group if you look at the density. which is relatively sparse, not as much as other groups This group of customers may be general people. that income is not high and may stop using the service for some reason
+• Group 2 (Green): This group consists of customers with a moderate to very long service life and low monthly costs. The density of this group is relatively sparse compared to others, suggesting it is a smaller group. These customers may include general individuals with modest income who might cease using the service for various reasons.
 
-• Group 3 (Red): This is a group of customers who have a low service life and have relatively high monthly expenses. This group of customers is the group that has the largest number. If you look at the density that is more than any other group The reason why this group of customers stopped using the service may come from The monthly fee used is high. And there are other camps that are cheaper. therefore discontinued the service
+• Group 3 (Red): Here, we have customers with a low service life and relatively high monthly expenses. This group represents the largest number of customers, characterized by a higher density than any other group. The primary reason for discontinuing the service in this group may stem from the high monthly fees, as well as the availability of cheaper alternatives in other camps.
 
-• Group 4 (Purple): This is a group of customers whose service life is in the middle level and their monthly expenses are quite high. The cause of termination of the service of this group of customers may be the same as the third group, which has too high a monthly fee. But there may still be some hesitation. or there are other reasons for switching to another camp causing this group of customers to remain in the service for a long time
+• Group 4 (Purple): This group encompasses customers with a moderate service life and relatively high monthly expenses. Similar to Group 3, the termination of service in this group may be attributed to the high monthly fees, with potential additional factors such as hesitations or preferences for other camps.
 
-• Group 5 (Gold): This group of customers is a very interesting group. because this group of customers has a long service life And there are also high monthly expenses. Which can be regarded as a good customer that should be kept and not to stop using the service This group of customers doesn't seem to care. Or how much is the cost problem? Therefore, the reason why the service fee is already high causes this group of customers to stop using the service. Therefore, it is not the cause of this group of customers but may be caused by the service or other reasons that should be studied further In order not to let these customers who are good customers In the future, stop using the service.
+• Group 5 (Gold): This is an intriguing group with customers having a long service life and high monthly expenses. Considered as valuable customers who should be retained, they seem indifferent to the cost. The reason for discontinuation in this group may not be the cost itself but could be due to service-related issues or other factors that warrant further investigation. To prevent the loss of these valuable customers in the future, a more in-depth study is necessary.
 
 ---
 
@@ -37,6 +37,7 @@ From the picture, it can be seen that there are 5 groups of customers who have a
 
 ### 🪚 Tools Used:
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/google%20colab-%252320232a.svg?style=for-the-badge&logo=googlecolab&logoColor=%23FFA500&color=%23fbec7d)
   
 ---
 
