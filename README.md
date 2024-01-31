@@ -1,6 +1,6 @@
 # Telecom Churn Prediction <a href="https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/data"><img src="https://img.shields.io/badge/click-for%20dataset-blue" alt="Dataset Badge"></a>
 
-Built models to predict whether a customer is likely to switch to another telecom service provider (churn) based on historical data and various features associated with the customer.
+Built models to predict whether a customer is likely to switch to another telecom service provider (churn) based on historical data and various features associated with the customer
 
 ### Customer churn influencing factors
 
