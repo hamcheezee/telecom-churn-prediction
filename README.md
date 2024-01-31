@@ -36,10 +36,10 @@ From the picture, it can be observed that there are five groups of customers who
 ---
 
 ### 🪚 Tools Used:
-![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/google%20colab-%252320232a.svg?style=for-the-badge&logo=googlecolab&logoColor=%23FFA500&color=%23fbec7d)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   
 ---
 
-### 🔗 Google Colab URL: 
-<a href = "https://colab.research.google.com/drive/1ovewHAby4qPeRpX1PFg_JnbP8ldeDWe6?usp=sharing">https://colab.research.google.com/drive/1ovewHAby4qPeRpX1PFg_JnbP8ldeDWe6?usp=sharing</a>
+### 🔗 Links: 
+<a href = "https://colab.research.google.com/drive/1ovewHAby4qPeRpX1PFg_JnbP8ldeDWe6?usp=sharing">Google Colab</a>
